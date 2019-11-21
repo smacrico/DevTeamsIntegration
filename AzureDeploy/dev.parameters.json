@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "appName": {
-        "value": "TeamIntegrationVol3"
+        "value": "TeamIntegrationVol1"
       },
       "repoUrl": {
-        "value": "https://github.com/smacrico/TeamsIntegrationVol3.git"
+        "value": "https://github.com/smacrico/DevTeamsIntegration.git"
       },
       "branch": {
         "value": "(your github branch like master"
