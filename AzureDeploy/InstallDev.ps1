@@ -1,7 +1,7 @@
 # Provision storage and function app
 .\Deploy-AzureResourceGroup.ps1 `
     -ResourceGroupLocation westeurope `
-    -ResourceGroupName venusstoragegroup `
+    -ResourceGroupName venusdevstoragegroup `
     -TemplateParametersFile dev.parameters.json
 
 # Ensure storage queues are in place
